@@ -1,4 +1,4 @@
-# SGD-with-momentum
+# Vanilla SGD VS SGD with momentum
 
 Visualizing why SGD with momentum converges faster than Vanilla SGD
 
