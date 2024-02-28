@@ -25,3 +25,7 @@ Given 30 epochs, the loss function is not zero but we can see it's getting there
 Given same number of epochs(30), it passes(overshots) global minima but it's able to return.(it converges faster than Vanilla SGD)
 ![SGD_with_momentum](https://github.com/Hawar-Dzaee/SGD-with-momentum/assets/96496172/91ebac4c-d8e1-4097-91ea-269e42bd2479)
 
+
+4- Vanilla SGD, SGD with momentum on the same Loss Function Landscape.
+![both_SGD](https://github.com/Hawar-Dzaee/SGD-with-momentum/assets/96496172/c64c3c43-513a-4445-923d-b8fb3708a864)
+
