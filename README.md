@@ -3,11 +3,11 @@
 Visualizing why SGD with momentum converges faster than Vanilla SGD
 
 🛑 Please make sure to open the notebook in Google Colab for Plotly's graphs to render.<br>
-🛑 I will be using (SGD == vanilla SGD == plain SGD) interchangeably, which is different from (SGD with momentum)
-⚡ visualing the path and speed each optimization algorithm(SGD,SGD with momentum) will take given trained for 30 epochs.
+🛑 I will be using (SGD == vanilla SGD == plain SGD) interchangeably, which is different from (SGD with momentum)<br>
+⚡ visualing the path and speed each optimization algorithm(SGD,SGD with momentum) will take given trained for 30 epochs.<br>
 
-Plotting (plain SGD) and (SGD with momentum) in the loss function landscape provides us with the intuition why SGD with momentum converges faster.
-We are also aiming to show why overshooting when using SGD with momentum won't be a problem (in fact, it will help us escape local minima).
+Plotting (plain SGD) and (SGD with momentum) in the loss function landscape provides us with the intuition why SGD with momentum converges faster.<br>
+We are also aiming to show why overshooting when using SGD with momentum won't be a problem (in fact, it will help us escape local minima).<br>
 
 
 
