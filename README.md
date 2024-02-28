@@ -17,5 +17,4 @@ our task is to go(descent) from red point to the green point.
 
 
 2- Given 30 epochs, the loss function is not zero but we can see it's getting there. 
-
-![vanilla_SGD](https://github.com/Hawar-Dzaee/SGD-with-momentum/assets/96496172/fbcb8ab0-06d4-4b43-99f0-135ad865df89)
+![vanilla_SGD](https://github.com/Hawar-Dzaee/SGD-with-momentum/assets/96496172/27f6d87d-aab7-43fa-a831-8e4018eaffa9)
