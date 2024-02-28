@@ -11,9 +11,11 @@ We are also aiming to show why overshooting when using SGD with momentum won't b
 
 
 
-1- plotting Loss function with initial parameters, and Global minima. 
-our task is to go from red point to the green point
+1- Loss(Cost) function Landscape with initial parameters, and Global minima. 
+our task is to go(descent) from red point to the green point. 
 ![landscape](https://github.com/Hawar-Dzaee/SGD-with-momentum/assets/96496172/875c98fe-29d7-4936-88d7-be1b56722596)
 
 
-2- 
+2- Given 30 epochs, the loss function is not zero but we can see it's getting there. 
+
+![vanilla_SGD](https://github.com/Hawar-Dzaee/SGD-with-momentum/assets/96496172/fbcb8ab0-06d4-4b43-99f0-135ad865df89)
