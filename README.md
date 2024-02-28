@@ -2,7 +2,7 @@
 
 Visualizing why SGD with momentum converges faster than Vanilla SGD
 
-🛑 Please make sure to open the notebook in Google Colab for Plotly's graphs to render.\n
+🛑 Please make sure to open the notebook in Google Colab for Plotly's graphs to render.<br>
 🛑 I will be using (SGD == vanilla SGD == plain SGD) interchangeably, which is different from (SGD with momentum)
 ⚡ visualing the path and speed each optimization algorithm(SGD,SGD with momentum) will take given trained for 30 epochs.
 
